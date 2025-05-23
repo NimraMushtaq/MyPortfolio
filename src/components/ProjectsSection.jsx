@@ -70,6 +70,26 @@ const projects = [
     demoUrl: "https://nimramushtaq.github.io/weather-app/",
     githubUrl: "https://github.com/NimraMushtaq/weather-app",
   },
+    {
+    id: 8,
+    title: "Skincare Webpage",
+    description:
+      "Designed an engaging skincare product landing page using Webflow. ",
+    image: "/projects/skincare.png",
+    tags: ["Html", "CSS", "Javascript"],
+    demoUrl: "https://nimras-beautiful-site-33d455.webflow.io/home",
+    githubUrl: "https://nimras-beautiful-site-33d455.webflow.io/home",
+  },
+    {
+    id: 9,
+    title: "Music Shows Webpage",
+    description:
+      "A dark-themed music event booking website with responsive design. ",
+    image: "/projects/music.png",
+    tags: ["Html", "CSS", "Javascript"],
+    demoUrl: "https://nimras-ultra-awesome-site-3d3d10.webflow.io/",
+    githubUrl: "https://nimras-ultra-awesome-site-3d3d10.webflow.io/",
+  },
 ];
 
 export const ProjectsSection = () => {
